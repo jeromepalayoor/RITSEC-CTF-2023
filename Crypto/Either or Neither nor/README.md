@@ -31,6 +31,6 @@ print(flag)
 >>> MetaCTF{x0r_th3_c0re}
 ```
 
-[Solve script]()
+[Solve script](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Crypto/Either%20or%20Neither%20nor/solve.py)
 
 Flag: `MetaCTF{x0r_th3_c0re}`
