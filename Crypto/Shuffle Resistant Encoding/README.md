@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63996033/230408406-de7901b4-9ada-438f-9112-2553c988d9a9.png)
 
-[encoded.txt]()
+[encoded.txt](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Crypto/Shuffle%20Resistant%20Encoding/encoded.txt)
 
 This is likely a frquency related challenge where the flag is dependent on the number of times that character has appeared in the encoded.txt.
 
@@ -27,6 +27,6 @@ print(''.join(a))
 >>>  +|>b5BhawA`l^T87to&;6j-/"%?'v!f:gRS{FrEQU3NcY_m0De}#sz=<@[dCW,H2LO(Kk X\IV1$.J)Mqnp~ZGP4yi*]x9
 ```
 
-[solve.py]()
+[solve.py](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Crypto/Shuffle%20Resistant%20Encoding/solve.py)
 
 Flag: `RS{FrEQU3NcY_m0De}`
