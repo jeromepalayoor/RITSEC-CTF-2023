@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63996033/230420489-cf6f9e15-8dab-4e4a-b1fd-7b5582a69731.png)
 
-[auth.log]()
+[auth.log](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Forensics/Red%20Team%20Activity%201/auth.log)
 
 Using grep to find all .sh file in the log reveals a suspicious file.
 
