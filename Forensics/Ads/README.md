@@ -7,7 +7,8 @@ Hint: Our network engineering team was able to isolate some suspicious ICMP traf
 Solution:
 ```
 The description reads:
-  We had to release a marketing intern because he failed security training. We monitored his activity for the last two weeks and captured this network traffic. 
+  We had to release a marketing intern because he failed security training.
+  We monitored his activity for the last two weeks and captured this network traffic. 
   We're worried that he was exfiltrating data. Can you confirm?
   
 This indicates that we are looking for some form of hidden traffic within the capture.
