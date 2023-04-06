@@ -1,6 +1,6 @@
 ## BIN-PWN
 
-This contains the challenges, its details, files, but NO WRITEUP since IDK pwn (I put the stuff here if I/you wanna try it out later)
+This contains the pwn challenges but these are not my writeups but the actual solutions since idk pwn (put here if i wanna learn it later)
 
 ![image](https://user-images.githubusercontent.com/63996033/230407712-8594fae5-8e1a-43c9-8954-f609fdffaa6f.png)
 
