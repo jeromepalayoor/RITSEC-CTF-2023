@@ -2,7 +2,7 @@
 
 Hint: Sample rate is 1 MSPS :)
 
-[frequent_frequency.c32]()
+[frequent_frequency.c32](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Misc/Frequent%20Frequency/frequent_frequency.zip)
 
 Solution:
 ```
