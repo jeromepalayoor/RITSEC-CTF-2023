@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63996033/230644486-bff667ec-e816-47f5-b764-942474815d21.png)
 
-[turtle.gif]()
+[turtle.gif](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Steganography/turtle/turtle.gif)
 
 Using an online [tool]([https://picasion.com/split-animated-gif/](https://extractgif.imageonline.co/index.php)) to extract the frames from the gif shows the flag in one of the frames.
 
