@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63996033/230646432-12f13f5b-f04b-4ac3-8079-0a132fb97c44.png)
 
-[bitmap.bmp]()
+[bitmap.bmp](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Steganography/bitmap/bitmap.bmp)
 
 Solution:
 ```
