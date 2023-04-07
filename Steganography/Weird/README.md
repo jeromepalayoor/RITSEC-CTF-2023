@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63996033/230643981-8cad4291-b19f-490f-89f7-33bf461c4b6f.png)
 
-[blank.png]()
+[blank.png](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Steganography/Weird/blank.png)
 
 I used this powerful [tool](https://stegonline.georgeom.net/image) to check bit planes.
 
