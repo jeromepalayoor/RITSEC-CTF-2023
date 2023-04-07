@@ -6,3 +6,7 @@ This contains the misc challenges
 
 ------
 ### Challenges
+- [Connection Terminated](https://github.com/jeromepalayoor/RITSEC-CTF-2023/tree/main/Misc/Connection%20Terminated)
+- [Frequent Frequency](https://github.com/jeromepalayoor/RITSEC-CTF-2023/tree/main/Misc/Frequent%20Frequency)
+- [New Hire](https://github.com/jeromepalayoor/RITSEC-CTF-2023/tree/main/Misc/New%20Hire)
+- [Wild Stocks](https://github.com/jeromepalayoor/RITSEC-CTF-2023/tree/main/Misc/Wild%20Stocks)
