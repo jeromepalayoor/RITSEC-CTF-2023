@@ -2,7 +2,7 @@
 
 [turtle.gif](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Steganography/turtle/turtle.gif)
 
-Using an online [tool]([https://picasion.com/split-animated-gif/](https://extractgif.imageonline.co/index.php)) to extract the frames from the gif shows the flag in one of the frames.
+Using an online [tool](https://extractgif.imageonline.co/index.php) to extract the frames from the gif shows the flag in one of the frames.
 
 ![image](https://user-images.githubusercontent.com/63996033/230644949-91354090-4587-416e-b166-eab4e2868d6e.png)
 
