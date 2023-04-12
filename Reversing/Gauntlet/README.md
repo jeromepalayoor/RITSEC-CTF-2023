@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63996033/231539896-88b531cf-52ac-4d3d-8da9-d87ccb08d0a3.png)
 
-[gauntlet.exe]()
+[gauntlet.exe](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Reversing/Gauntlet/gauntlet.exe)
 
 Solution: 
 ```
