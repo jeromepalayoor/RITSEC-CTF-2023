@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/63996033/231537600-88af8008-d876-484c-8e28-36a0b3f40467.png)
 
-[encoding.py]() [server.py]() [supersecret.json]()
+[encoding.py](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Reversing/Guess%20the%20Password%3F/encoding.py) [server.py](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Reversing/Guess%20the%20Password%3F/server.py) [supersecret.json](https://github.com/jeromepalayoor/RITSEC-CTF-2023/blob/main/Reversing/Guess%20the%20Password%3F/supersecret.json)
 
 We cannot bruteforce the numbers as there is rate limiting. So the json file has a key and a secret; key is a hash and secret is... corrupted. We'll need to run our password against the server later to get the real flag
 Taking a quick peek at encoding.py, it looks like check_input() hashes user_input and checks if it's equal to the key. flag_from_pwd() takes a key, xor's it against secret and returns it. 
