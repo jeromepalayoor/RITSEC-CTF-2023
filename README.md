@@ -1,5 +1,7 @@
 ## Writeups for [RITSEC CTF 2023](https://ctf.ritsec.club/)
 
+![image](https://user-images.githubusercontent.com/63996033/231541840-bece834c-4922-42c6-a43f-d3d36146d2db.png)
+
 [More Info](https://gitlab.ritsec.cloud/competitions/ctf-2023-public/-/tree/master/)
 
 ### Categories
