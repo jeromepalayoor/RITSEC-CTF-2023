@@ -1,4 +1,6 @@
-## Writeups for RITSEC CTF 2023
+## Writeups for [RITSEC CTF 2023](https://ctf.ritsec.club/)
+
+[More Info](https://gitlab.ritsec.cloud/competitions/ctf-2023-public/-/tree/master/)
 
 ### Categories
 - [BIN-PWN](https://github.com/jeromepalayoor/RITSEC-CTF-2023/tree/main/BIN-PWN)
